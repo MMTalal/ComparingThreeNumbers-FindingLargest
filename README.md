@@ -11,7 +11,7 @@ This Python script prompts the user to input three numbers, and then determines 
 
 ## Usage
 
-1. Clone the repository or download the `compare_numbers.py` file.
+1. Clone the repository or download the `Comparing Three Numbers and Finding the Largest.py` file.
 2. Open a Python environment (e.g., terminal, Jupyter Notebook).
 3. Run the script by executing the following command:
 
